@@ -1,6 +1,6 @@
 # CryptPredict
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Language](path/to/python.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Language](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org/)
 
 ## Overview
 CryptPredict is a Python project that aims to predict cryptocurrency prices using linear regression. The project utilizes the Binance exchange API to fetch historical price data, prepares the data for model training, and employs a linear regression model to make predictions for future prices.
