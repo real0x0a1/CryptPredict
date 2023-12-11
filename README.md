@@ -14,7 +14,7 @@ CryptPredict is a Python project that aims to predict cryptocurrency prices usin
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
@@ -22,7 +22,7 @@ CryptPredict is a Python project that aims to predict cryptocurrency prices usin
 
 2. Run the script:
    ```bash
-   python CryptPredict.py
+   python3 CryptPredict.py
    ```
 
 3. View the predicted prices for the specified cryptocurrency in the console.
